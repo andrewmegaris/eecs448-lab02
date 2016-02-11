@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Andrew Megaris
+*	@date  2/11/2016
 *	@file main.cpp
 *	@brief driver for LinkedList demo
 */
